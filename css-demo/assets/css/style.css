@@ -1,0 +1,17 @@
+/* ------- Style for css-demo ------ */
+/*  ---------------Box Sizing-----------------  */
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+body{
+    background-color: lightgreen;
+    font-family: 'Oswald', sans-serif;
+
+}
