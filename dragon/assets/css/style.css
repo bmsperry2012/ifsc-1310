@@ -1,7 +1,4 @@
-body{
-    background-color: #ffffff;
-   font-family: 'Oswald', sans-serif;
-  margin:0;
-  background-image: url("../img/nl.jpg");
-  background-repeat: no-repeat;
+body {
+  background-image: url('/dragon/assets/img/outerspace.jpg');
+  background-size: cover;
 }
