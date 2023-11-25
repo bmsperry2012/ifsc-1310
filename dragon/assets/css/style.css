@@ -1,4 +1,26 @@
 body {
-  background-image: url('/dragon/assets/img/outerspace.jpg');
-  background-size: cover;
+    margin: 0;
+    padding: 0;
 }
+
+.header {
+    text-align: center;
+    padding: 50px; 
+}
+
+.header img {
+    width: 500px; 
+    height: auto; 
+}
+
+        
+        .logo {
+            width: 200px; 
+            height: auto;
+        }
+
+        .right-aligned {
+            width: 200px;
+            height: auto;
+            float: right;
+        }
